@@ -1,0 +1,12 @@
+# Ignore sensitive credentials
+credentials.json
+
+# Ignore the Python virtual environment folder
+venv/
+path/
+
+# Ignore output files
+*.json
+
+# Ignore macOS system files
+.DS_Store
