@@ -33,9 +33,7 @@ USER_AGENTS = [
 
 KEYWORDS = [
     # Aesthetics & "Cores"
-    'aesthetic', 'y2k', 'grunge', 'preppy', 'emo', 'vintage', 'streetwear'
-]
-UNUSED = [
+    'aesthetic', 'y2k', 'grunge', 'preppy', 'emo', 'vintage', 'streetwear',
     'goth', 'cute', 'kawaii', 'cottagecore', 'fairycore', 'dark academia', 
     'light academia', 'soft girl', 'e-girl', 'baddie', 'kidcore', 'weirdcore', 
     'royalcore', 'angelcore', 'devilcore', 'cyber', 'cybergoth',
