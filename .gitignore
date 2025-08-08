@@ -10,3 +10,6 @@ path/
 
 # Ignore macOS system files
 .DS_Store
+
+# Stored Data
+roblox_data.db
